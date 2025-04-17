@@ -129,3 +129,4 @@ C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\ConsoleToWeb\obj\Debug\net8
 C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\ConsoleToWeb\obj\Debug\net8.0\ConsoleToWeb.pdb
 C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\ConsoleToWeb\obj\Debug\net8.0\ConsoleToWeb.genruntimeconfig.cache
 C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\ConsoleToWeb\obj\Debug\net8.0\ref\ConsoleToWeb.dll
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\ConsoleToWeb\obj\Debug\net8.0\ConsoleToWeb.sourcelink.json

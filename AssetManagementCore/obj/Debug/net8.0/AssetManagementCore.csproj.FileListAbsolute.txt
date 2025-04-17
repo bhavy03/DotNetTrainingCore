@@ -12,3 +12,4 @@ C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Deb
 C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.pdb
 C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.genruntimeconfig.cache
 C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\ref\AssetManagementCore.dll
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.sourcelink.json

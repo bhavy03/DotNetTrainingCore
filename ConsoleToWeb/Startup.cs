@@ -19,6 +19,13 @@ namespace ConsoleToWeb
         {
             services.AddControllers();
             services.AddTransient<CustomMiddleware>();
+
+            //services.AddSingleton(new Service1());
+            //services.AddSingleton(new Service2());
+
+            //The service instances aren't created by the service container.
+            //The framework doesn't dispose of the services automatically.
+            //The developer is responsible for disposing the services.
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

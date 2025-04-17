@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AssetAPI": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52886;http://localhost:52887"
+    }
+  }
+}

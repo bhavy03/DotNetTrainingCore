@@ -10,6 +10,8 @@ namespace ConsoleToWeb
         {
             Console.WriteLine("Hello, World!");
             CreateHostBuilder(args).Build().Run();
+            DependencyInjection di = new DependencyInjection();
+            di.DI();
 
         }
         public static IHostBuilder CreateHostBuilder(string[] args) =>

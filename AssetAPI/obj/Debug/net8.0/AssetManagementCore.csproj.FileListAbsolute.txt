@@ -1,0 +1,14 @@
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\bin\Debug\net8.0\AssetManagementCore.exe
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\bin\Debug\net8.0\AssetManagementCore.deps.json
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\bin\Debug\net8.0\AssetManagementCore.runtimeconfig.json
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\bin\Debug\net8.0\AssetManagementCore.dll
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\bin\Debug\net8.0\AssetManagementCore.pdb
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.AssemblyInfoInputs.cache
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.AssemblyInfo.cs
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.csproj.CoreCompileInputs.cache
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.dll
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\refint\AssetManagementCore.dll
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.pdb
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\AssetManagementCore.genruntimeconfig.cache
+C:\Users\bhavya.soni\source\repos\DotNetTrainingCore\AssetManagementCore\obj\Debug\net8.0\ref\AssetManagementCore.dll

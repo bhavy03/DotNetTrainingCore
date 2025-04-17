@@ -1,0 +1,14 @@
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\bin\Debug\net8.0\AssetManagement.exe
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\bin\Debug\net8.0\AssetManagement.deps.json
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\bin\Debug\net8.0\AssetManagement.runtimeconfig.json
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\bin\Debug\net8.0\AssetManagement.dll
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\bin\Debug\net8.0\AssetManagement.pdb
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.AssemblyInfoInputs.cache
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.AssemblyInfo.cs
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.csproj.CoreCompileInputs.cache
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.dll
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\refint\AssetManagement.dll
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.pdb
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\AssetManagement.genruntimeconfig.cache
+C:\Users\bhavya.soni\source\repos\AssetManagementCore\AssetManagement\obj\Debug\net8.0\ref\AssetManagement.dll
